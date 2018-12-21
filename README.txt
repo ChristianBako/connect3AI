@@ -1,3 +1,4 @@
+Performance analysis.
 
 Total time: 0.464526 s
 File: .\connect3.py
